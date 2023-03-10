@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(90, 118, 182);
+    margin: 10%;
+}
+p{
+    text-align: left;
+}
+button{
+    /* background-color: greenyellow;
+    color: red; */
+    height: 50px;
+    width: 100px;
+}
